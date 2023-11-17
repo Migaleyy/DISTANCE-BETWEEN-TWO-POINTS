@@ -26,7 +26,7 @@ print('{:.2f}'.format(dist))
 ```
 
 ### OUTPUT:
-![image](https://github.com/Migaleyy/DISTANCE-BETWEEN-TWO-POINTS/assets/118262199/c95e22ef-5680-4baa-ac43-18e2c298971a)
+![image](https://github.com/Migaleyy/DISTANCE-BETWEEN-TWO-POINTS/assets/118262199/8c6670d8-86bb-464a-8b76-38b5e995f057)
 
 ### RESULT:
 The above program is verified and created successfully.
